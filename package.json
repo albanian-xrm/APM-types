@@ -1,0 +1,21 @@
+{
+  "name": "@albanian-xrm/apm-types",
+  "version": "0.1.0",
+  "description": "Microsoft.Apm (App profile manager) types from the community (us).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanian-xrm/APM-types.git"
+  },
+  "keywords": [
+    "Microsoft.Apm",
+    "dataverse",
+    "omnichannel"
+  ],
+  "author": "AlbanianXrm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albanian-xrm/APM-types/issues"
+  },
+  "types": "./index.d.ts",
+  "homepage": "https://github.com/albanian-xrm/APM-types#readme"
+}

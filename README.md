@@ -1,4 +1,4 @@
-# @albanian-xrm/apm-types  ![NPM Downloads](https://img.shields.io/npm/dt/@albanian-xrm%2Fcif-types)
+# @albanian-xrm/apm-types  ![NPM Downloads](https://img.shields.io/npm/dt/@albanian-xrm%2Fapm-types)
 Microsoft.Apm (App profile manager) types from the community (us).
 
 The app profile manager JavaScript API Reference includes methods and properties to manage tabs and sessions in Customer Service workspace.
